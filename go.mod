@@ -1,4 +1,4 @@
-module github.com/jesseobrien/torque
+module github.com/go-torque/torque
 
 go 1.18
 
